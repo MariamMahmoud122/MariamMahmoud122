@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm Mariam Mahmoud</h1>
+<h1 align="center">Hi 👋 I'm Mariam Mahmoud</h1>
 
 <h3 align="center">Junior Front-End Developer | React.js • JavaScript • HTML5 • CSS3 • Bootstrap</h3>
 
