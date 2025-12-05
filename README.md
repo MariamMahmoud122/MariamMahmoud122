@@ -1,16 +1,96 @@
-## Hi there 👋
+<h1 align="center">Hey 👋 I'm Mariam Mahmoud</h1>
 
-<!--
-**MariamMahmoud122/MariamMahmoud122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Junior Front-End Developer | React.js • JavaScript • HTML5 • CSS3 • Bootstrap</h3>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+
+- 🎓 Fresh Computer Science Graduate (IT Major) – GPA: 3.1/4
+- 💻 Front-End Developer with hands-on experience in React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, and jQuery
+- 🌱 Completed Web Design Scholarship at NTI (2 months) – worked on real client-style projects  
+- 🛠 Skilled in creating responsive, user-friendly, and high-performance web interfaces  
+- 🔌 Strong background in networking (CCNA), cloud fundamentals (Azure), and cybersecurity  
+- 🥉 Bronze Medal Winner at Huawei ICT Competition (Networking track)  
+- 🚀 Looking for a Junior Front-End Developer opportunity (Remote/On-site)
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap,tailwind,scss,jquery" height="60"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=java,py,cpp,cs,mysql,postgres,postman,git,github,azure" height="60"/>
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🌸 **Skin Care Website** — [Live Demo](https://skin-care-website-1m1.vercel.app/)
+React-based responsive skincare brand website with modern UI/UX.
+
+### 🏥 **SHEFAA Clinic Landing Page** — [Live Demo](https://shefaa-clinic.vercel.app/)
+Medical landing page with React.js, CSS Modules, Bootstrap, animations & dynamic sections.
+
+### 🌺 **Flower Shop Website** — [Live Demo](https://flower-shop-jet.vercel.app/)
+Responsive storefront using HTML5, CSS3, SCSS, JavaScript & Bootstrap.
+
+### 📚 **Book Store Website** — [Live Demo](https://book-store-i9v5.vercel.app/)
+Complete book store UI using React + Bootstrap.
+
+### 📝 **Responsive Form (Res-Form)** — [Live Demo](https://res-form.vercel.app/)
+Interactive form-builder UI with validation & clean responsive design.
+
+### ⌚ **Watch Store Website**
+E-commerce layout built using HTML, CSS & JavaScript.
+
+### 🧮 **JavaScript Calculator**
+Fully functional calculator with clean UI.
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=MariamMahmoud122&theme=dracula&date_format=M%20j%5B,%20Y%5D" height="150"/>
+</div>
+
+---
+
+## 🏆 Certificates
+
+- Web Development Challenger Track (MCIT)
+- Web Design / Front-End Development – NTI
+- CCNA 200-301 — Networking, Routing & Switching  
+- Microsoft Azure SC-900 — Security, Compliance & Identity  
+- Java Programming & OOP/SOLID  
+- ICDL Certification (Word – Excel – PowerPoint)
+
+---
+
+## 🥇 Awards
+
+### 🥉 **Bronze Medal — Huawei ICT Competition (2024)**
+Awarded for excellence and advanced problem-solving in networking technologies.
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="mailto:mmariam.1222004@gmail.com">
+    <img src="https://img.shields.io/badge/Email-dd4b39?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://linkedin.com/in/mariam-mahmoud-1290b52a7">
+    <img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/MariamMahmoud122">
+    <img src="https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</div>
+
+---
+
+<h3 align="center">✨ Always exploring, building, and improving. Open to collaboration & new opportunities! ✨</h3>
